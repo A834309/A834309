@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on embedded system development!
+- 🔭 I’m currently working on SLAM!
 - 🌱 I’m currently learning realtime object detection and semantic segmentation!
 
 
