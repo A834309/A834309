@@ -63,6 +63,10 @@ I am particularly enthusiastic about:
       <br>PyTorch
     </td>
     <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" alt="icon" width="65" height="65" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
       <img src="https://www.ros.org/imgs/ros-icon.png" alt="icon" width="65" height="65" />
       <br>ROS
     </td>
@@ -70,9 +74,31 @@ I am particularly enthusiastic about:
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NVIDIA_logo.svg" alt="icon" width="65" height="65" />
       <br>Isaac Gym
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="icon" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="icon" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="icon" width="65" height="65" />
       <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="icon" width="65" height="65" />
+      <br>CMake
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="icon" width="65" height="65" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="icon" width="65" height="65" />
+      <br>LaTeX
     </td>
   </tr>
 </table>
