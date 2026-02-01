@@ -51,53 +51,53 @@ I am particularly enthusiastic about:
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/ee/e6/PyTorch_logo_icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65" />
       <br>OpenCV
     </td>
     <td align="center" width="96">
-      <img src="https://www.ros.org/imgs/ros-icon.png" alt="icon" width="65" height="65" />
+      <img src="https://cdn.simpleicons.org/ros/white" alt="ROS" width="65" height="65" />
       <br>ROS
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NVIDIA_logo.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.simpleicons.org/nvidia/76B900" alt="Isaac Gym" width="65" height="65" />
       <br>Isaac Gym
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="65" height="65" />
       <br>CMake
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.simpleicons.org/gnubash/white" alt="Bash" width="65" height="65" />
       <br>Bash
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.simpleicons.org/latex/white" alt="LaTeX" width="65" height="65" />
       <br>LaTeX
     </td>
   </tr>
@@ -108,8 +108,8 @@ I am particularly enthusiastic about:
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=A834309&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A834309&layout=compact&theme=radical" />
 </div>
 
 <p align="center">
