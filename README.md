@@ -26,8 +26,6 @@ I am particularly enthusiastic about:
 * 🎨 **Generative Models:** Applying Diffusion Models & Flow Matching to robot control.
 * ⚡ **Efficient Inference:** Making SOTA models run on edge devices (Jetson/NUC).
 
-Previously, I interned at **DJI (Flight System Dept)**, working on end-to-end UAV tracking and model optimization.
-
 ---
 
 ### 🔥 Selected Research & Projects
