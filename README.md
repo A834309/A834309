@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>M.S. Student in Control Science & Engineering @ Harbin Institute of Technology, Shenzhen</b> <br/>
-  <i>Focusing on Generative AI for Robotics, Sim-to-Real Transfer, and Efficient Visuomotor Policies.</i>
+  <i>Focusing on Generative AI for Robotics, Reinforcement Learning, and Efficient Visuomotor Policies.</i>
 </p>
 
 ---
