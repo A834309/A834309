@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Zhexuan Zhou (周哲萱) 👋</h1>
+<h1 align="center">Hi there, I'm Zhexuan Zhou👋</h1>
 
 <p align="center">
   <a href="mailto:2443461739@qq.com">
