@@ -34,8 +34,8 @@ I am particularly enthusiastic about:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[PocketDP3]** <br> *(ICML 2026 Under Review)* | **Robust Pocket-Scale 3D Visuomotor Policy** <br> • Proposed **Diffusion Mixer (DiM)** decoder with <1% params of SOTA. <br> • Achieved **2-step inference** for real-time control on edge devices. | `PyTorch` `Diffusion` `RoboTwin` |
-| **[Efficient-Flow]** <br> *(ECCV 2026 Under Review)* | **Lightweight MLP-based Flow Matching** <br> • Designed a pure MLP trajectory predictor using Optimal Transport. <br> • **10x faster inference** compared to traditional diffusion policies. | `Flow Matching` `Optimal Transport` |
+| **[PocketDP3]** <br>  | **Robust Pocket-Scale 3D Visuomotor Policy** <br> • Proposed **Diffusion Mixer (DiM)** decoder with <1% params of SOTA. <br> • Achieved **2-step inference** for real-time control on edge devices. | `PyTorch` `Diffusion` `RoboTwin` |
+| **[Efficient-Flow]** <br>  | **Lightweight MLP-based Flow Matching** <br> • Designed a pure MLP trajectory predictor using Optimal Transport. <br> • **10x faster inference** compared to traditional diffusion policies. | `Flow Matching` `Optimal Transport` |
 
 #### 🚁 Aerial Robotics & Locomotion
 
