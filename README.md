@@ -52,11 +52,12 @@
   | **Hydra-DP3** | Diffusion Mixer (<1% params of SOTA); **2-step inference** without distillation; frequency-domain analysis | `Diffusion` `DCT` `MLP-Mixer` |                                                                                                                                              
                                                                                                                                                              
   #### 🚁 Aerial Robotics & Planning                                                                                                                         
-                  
+                                                                                                                                                             
   | Project | Highlights | Tech |                                                                                                                            
-  | :--- | :--- | :--- |
+  | :--- | :--- | :--- |                                                                                                                                     
   | **Agile-Delay** *(ICRA'26)* | Asynchronous RL with Temporal Encoding; 100Hz control; Zero-shot Sim-to-Real in forests | `RL` `Sim-to-Real` `NUC` |       
   | **STORM** *(IROS'25)* | B-spline spatial-temporal optimization; Guidance Gradient; geometric safety guarantee | `C++` `Optimization` `ROS` |             
+  | **Multi-AAV Pursuit** *(RA-L)* | Decentralized end-to-end MARL; Predictive Spatial-Temporal Observation; zero-shot cross-formation generalization | `MARL` `Sim-to-Real` `Isaac Gym` |          
                                                                                                                                                              
   #### 🚗 Autonomous Driving                                                                                                                                 
                                                                                                                                                              
