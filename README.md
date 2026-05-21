@@ -49,8 +49,7 @@
   | Project | Highlights | Tech |                                                                                                                            
   | :--- | :--- | :--- |
   | **LDP** | VAE-based latent space shaping + Diffusion Forcing + Staircase Sampling; SOTA on RoboTwin/Adroit | `DiT` `Flow Matching` `CVAE` |              
-  | **Hydra-DP3** | Diffusion Mixer (<1% params of SOTA); **2-step inference** without distillation; frequency-domain analysis | `Diffusion` `DCT`           
-  `MLP-Mixer` |                                                                                                                                              
+  | **Hydra-DP3** | Diffusion Mixer (<1% params of SOTA); **2-step inference** without distillation; frequency-domain analysis | `Diffusion` `DCT` `MLP-Mixer` |                                                                                                                                              
                                                                                                                                                              
   #### 🚁 Aerial Robotics & Planning                                                                                                                         
                   
