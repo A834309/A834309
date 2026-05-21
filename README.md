@@ -143,7 +143,7 @@
   <div align="center">                                                                                                                                       
     <img src="https://raw.githubusercontent.com/A834309/A834309/master/profile-summary-card-output/radical/0-profile-details.svg" height="180" />            
                                                                                                                                                  
-    <br/>                                                                                                                                                    
+  <br/>                                                                                                                                                    
          
     <img src="https://raw.githubusercontent.com/A834309/A834309/master/profile-summary-card-output/radical/2-most-commit-language.svg" height="180" />       
   </div>                                                                                                                                                     
