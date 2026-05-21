@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-I am currently a Master's student at **HIT-Shenzhen**, advised by [Insert Supervisor Name if applicable]. My research interest lies at the intersection of **Robotics** and **Generative AI**. 
+I am currently a Master's student at **HIT-Shenzhen**. My research interest lies at the intersection of **Robotics** and **Generative AI**. 
 
 I am particularly enthusiastic about:
 * 🤖 **Embodied AI:** Building robust policies that work in the wild (Sim-to-Real).
