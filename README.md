@@ -1,6 +1,3 @@
-                                                                                                                                                           
-  ---                                                                                                                                                        
-                                                                                                                                                             
   <h1 align="center">Hi there, I'm Zhexuan Zhou 👋</h1>                                                                                                      
                                                                                                                                                              
   <p align="center">                                                                                                                                         
@@ -12,16 +9,16 @@
     </a>                                                                                                                                                     
     <img src="https://img.shields.io/badge/Focus-Embodied%20AI%20%7C%20Robotics-forestgreen?style=flat-square" alt="Focus" />                                
   </p>                                                                                                                                                       
-                                                                                                                                                             
+                  
   <p align="center">                                                                                                                                         
     <b>M.S. in Control Science & Engineering @ Harbin Institute of Technology, Shenzhen</b> <br/>                                                            
     <i>Generative AI for Robotics | Diffusion Policy | Flow Matching | Sim-to-Real</i>                                                                       
   </p>                                                                                                                                                       
                                                                                                                                                              
   ---                                                                                                                                                        
-                  
+                                                                                                                                                             
   ### 🚀 About Me                                                                                                                                            
-   
+  
   I am a Master's student at **HIT-Shenzhen**. My research lies at the intersection of **Generative AI** and **Robotics**.                                   
                   
   * 🤖 **Embodied Manipulation:** Diffusion Policy, Flow Matching, VLA post-training (DPO), Sim-to-Real                                                      
@@ -31,7 +28,7 @@
   ---                                                                                                                                                        
                                                                                                                                                              
   ### 📄 Publications                                                                                                                                        
-   
+  
   | Venue | Paper | Role |                                                                                                                                   
   | :---: | :--- | :---: |
   | **CoRL 2026** (Under Review) | **LDP: Shaping Latent Spaces for Diffusion-Based Robotic Manipulation** | 1st Author |                                    
@@ -46,7 +43,7 @@
   ---                                                                                                                                                        
                                                                                                                                                              
   ### 🔥 Selected Projects                                                                                                                                   
-   
+  
   #### 🦾 Embodied Manipulation                                                                                                                              
                   
   | Project | Highlights | Tech |                                                                                                                            
@@ -72,7 +69,7 @@
   ---                                                                                                                                                        
                                                                                                                                                              
   ### 🏆 Awards                                                                                                                                              
-   
+  
   - 🥇 National 1st Prize — National Intelligent Car Competition (ROS Outdoor, Team Lead)                                                                    
   - 🥈 National 2nd Prize — RoboMaster Super Battle (Sentry Perception)
   - 🥈 National 2nd Prize — RoboMaster UAV Intelligent Perception (NMPC Control)                                                                             
@@ -81,7 +78,7 @@
   ---                                                                                                                                                        
                                                                                                                                                              
   ### 🛠 Tech Stack                                                                                                                                           
-   
+                  
   <table>                                                                                                                                                    
     <tr>          
       <td align="center" width="96">                                                                                                                         
@@ -106,6 +103,7 @@
       </td>                                                                                                                                                  
       <td align="center" width="96">                                                                                                                         
         <img src="https://cdn.simpleicons.org/nvidia/76B900" alt="Isaac Sim" width="65" height="65" />                                                       
+        <br>Isaac Sim                                                                                                                                        
       </td>                                                                                                                                                  
     </tr>                                                                                                                                                    
     <tr>                                                                                                                                                     
@@ -139,17 +137,13 @@
   ---             
                                                                                                                                                              
   ### 📈 GitHub Stats                                                                                                                                        
-                                                                                                                                                             
+  
   <div align="center">                                                                                                                                       
-    <img src="https://raw.githubusercontent.com/A834309/A834309/master/profile-summary-card-output/radical/0-profile-details.svg" height="180" />            
-                                                                                                                                                 
-  <br/>                                                                                                                                                    
-         
-    <img src="https://raw.githubusercontent.com/A834309/A834309/master/profile-summary-card-output/radical/2-most-commit-language.svg" height="180" />       
+    <img src="https://raw.githubusercontent.com/A834309/A834309/master/profile-summary-card-output/radical/0-profile-details.svg" height="180" />
+    <br/>                                                                                                                                                    
+    <img src="https://raw.githubusercontent.com/A834309/A834309/master/profile-summary-card-output/radical/2-most-commit-language.svg" height="180" />
   </div>                                                                                                                                                     
-        
+                  
   <p align="center">                                                                                                                                         
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>                                                  
-  </p>                                                                                                     
-                                                                                                                                                             
-  ---             
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  </p>  
