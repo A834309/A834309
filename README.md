@@ -31,9 +31,8 @@
   
   | Venue | Paper | Role |                                                                                                                                   
   | :---: | :--- | :---: |
-  | **CoRL 2026** (Under Review) | **LDP: Shaping Latent Spaces for Diffusion-Based Robotic Manipulation** | 1st Author |                                    
-  | **NeurIPS 2026** (Under Review) | **Hydra-DP3: Frequency-Aware 3D Diffusion Policies** | 1st Author |                                                    
-  | **NeurIPS 2026** (Under Review) | **Information Filtering via Variational Regularization** | Co-author |                                                 
+  | **CoRL 2026** ✅Poster | **LDP: Shaping Latent Spaces for Diffusion-Based Robotic Manipulation** | 1st Author |                                    
+  | **NeurIPS 2026** ✅Poster | **Hydra-DP3: Frequency-Aware 3D Diffusion Policies** | 1st Author |                                                                                                
   | **ECCV 2026** (Under Review) | **EfficientFlow: Lightweight MLP-based Flow Matching for Trajectory Prediction** | 1st Author |                           
   | **ECCV 2026** (Under Review) | **LAP: Latent Diffusion Planner for Autonomous Driving** | Co-author |                                                    
   | **ICRA 2026** ✅ | **Agile in the Face of Delay: Asynchronous End-to-End Learning for UAV** | 1st Author |                                               
